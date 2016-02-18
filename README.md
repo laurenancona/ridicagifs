@@ -3,7 +3,7 @@ Just a collection of handy gifs for the office chat. Contributions welcome.
 
 Feel free to include potential use-cases for gifs in comments. 
 
-**Initially used as an excercise for learning how to git from the command line.**
+**Initially used as an exercise for learning how to git from the command line.**
 
 
 #### Roadmap
